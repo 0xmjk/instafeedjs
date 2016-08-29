@@ -1,6 +1,6 @@
 # instafeedjs
 
-A JavaScript module scraping the Instagram web page to fetch users photo feed.
+A JavaScript module scraping the Instagram web page to fetch user's photo feed.
 
 It uses a JSONP proxy whateverorigin.org (but really you should set up your own).
 
